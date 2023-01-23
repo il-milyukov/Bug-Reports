@@ -1,5 +1,4 @@
 # Bug-Reports
-![Header](https://github.com/il-milyukov/il-milyukov/blob/main/Assets/ilya%20milyukov.gif)
 
 ## Educational project
 [Screenshots from TMS](https://drive.google.com/drive/folders/1rjUdVu0EisPnrOVWa8R_bFdHECcr7Aeb?usp=sharing)
