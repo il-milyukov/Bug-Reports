@@ -6,9 +6,9 @@
 [Documentation](https://drive.google.com/file/d/1eZ0-4_tudf_CQ4uEYTqRKwfYunjwW0-k/view?usp=share_link)
 
 ## Duotek
-[Documentation](https://drive.google.com/file/d/1qCJhw8p2dzRIJD1ZjBmLJw2q29sFe-8_/view?usp=share_link)
+[Documentation](https://drive.google.com/file/d/14eXMc5I90maO9r_xqW_z_kSf5HwxE-Sw/view?usp=sharing)
 
 ## Yami-Yami
 [Documentation](https://drive.google.com/file/d/1q5aLTjqyRlgozJCjjsJAt5ZRgmYwTPh4/view?usp=sharing)
 
-## Charity hospital (in progress...)
+## Charity hospital (coming soon...)
